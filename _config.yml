@@ -24,8 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Boyang Ma"
+  nameCN           : "马博洋"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor, School of Computer Science and Technology, Shandong University"
   location         : "Qingdao, China"
   employer         : "Shandong University"
   uri              : # URL
