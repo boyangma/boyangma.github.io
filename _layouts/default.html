@@ -24,18 +24,23 @@
     {% include scripts.html %}
     
     <script>
-      console.log("Link target script loading...");
-      
       function setAllLinksToBlank() {
         var links = document.querySelectorAll('a[href]');
-        console.log("Found " + links.length + " links");
         links.forEach(function (link) {
-          if (link.target !== '_blank') {
+          // 排除顶部导航栏的链接
+          var isNavLink = link.closest('.masthead') || 
+                         link.closest('.site-nav') || 
+                         link.closest('.navigation') ||
+                         link.closest('nav') ||
+                         link.closest('.navbar') ||
+                         link.closest('.menu');
+          
+          // 如果不是导航链接，就设置为新窗口打开
+          if (!isNavLink && link.target !== '_blank') {
             link.target = '_blank';
             link.rel = 'noopener noreferrer';
           }
         });
-        console.log("All links set to target=_blank");
       }
 
       // 确保在所有其他脚本执行完后再执行
@@ -49,8 +54,6 @@
         
         // 每5秒强制检查一次
         setInterval(setAllLinksToBlank, 5000);
-        
-        console.log("Link target script fully loaded!");
       }, 100);
     </script>
     
