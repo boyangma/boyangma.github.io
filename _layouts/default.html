@@ -26,18 +26,52 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        // 获取页面中所有链接
-        var links = document.querySelectorAll('a[href]');
     
-        links.forEach(function(link) {
-          link.target = '_blank';
-          link.rel = 'noopener noreferrer';
+    <script>
+      function setAllLinksToBlank() {
+        var links = document.querySelectorAll('a[href]');
+        links.forEach(function (link) {
+          if (link.target !== '_blank') {
+            link.target = '_blank';
+            link.rel = 'noopener noreferrer';
+          }
+        });
+      }
+
+      // 多重保险执行
+      document.addEventListener('DOMContentLoaded', setAllLinksToBlank);
+      window.addEventListener('load', setAllLinksToBlank);
+
+      // 延迟执行，确保其他脚本执行完后再设置
+      setTimeout(setAllLinksToBlank, 500);
+      setTimeout(setAllLinksToBlank, 1000);
+      setTimeout(setAllLinksToBlank, 2000);
+
+      // 监听页面变化，有新内容就重新设置
+      var observer = new MutationObserver(function (mutations) {
+        var shouldUpdate = false;
+        mutations.forEach(function (mutation) {
+          if (mutation.addedNodes.length > 0) {
+            shouldUpdate = true;
+          }
+        });
+        if (shouldUpdate) {
+          setTimeout(setAllLinksToBlank, 100);
+        }
+      });
+
+      // 开始监听
+      document.addEventListener('DOMContentLoaded', function () {
+        observer.observe(document.body, {
+          childList: true,
+          subtree: true
         });
       });
-    </script>
 
-  </body>
-</html>
+      // 每5秒强制检查一次（可选，如果上面的方法还不够）
+      setInterval(setAllLinksToBlank, 5000);
+    </script>
+    
+    </body>
+    
+    </html>
