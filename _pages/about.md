@@ -17,6 +17,10 @@ I am always open to academic collaborations and discussions. Please feel free to
 
 ## 📝 Publications 
 
+- Zhihao Li, Kun Li, **Boyang Ma**, Minghui Xu, Yue Zhang and Xiuzhen Cheng. We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems. To appear in Proceedings of the IEEE MASS Workshop on Data Security and LLM Safety in Smart Systems 2025 (DLS 2025), Chicago, USA, Oct. 2025.
+- 
+- Rui Jiao, Yue Zhang, Jinku Li, and **Boyang Ma**. SCCA: A Multi-Agent Code Security Analysis Framework for AI-Assisted Code Generation. To appear in Proceedings of the IEEE MASS Workshop on Data Security and LLM Safety in Smart Systems 2025 (DLS 2025), Chicago, USA, Oct. 2025.
+- 
 - **Boyang Ma**, Linxuan Zhou, Chong Liao, Yajin Zhou, Jinku Li, and Jianfeng Ma. 2025. “RansomSentry: Runtime Detection of Android Ransomware With Compiler-Based Instrumentation.” IEEE Transactions on Dependable and Secure Computing (**TDSC**), January, 1–17. [**JCR-Q1**][**CCF-A**]
 
 - **Boyang Ma**, Yilin Yang, Jinku Li, Fengwei Zhang, Wenbo Shen, Yajin Zhou, and Jianfeng Ma. 2023. "Travelling the Hypervisor and SSD: A Tag-Based Approach Against Crypto Ransomware with Fine-Grained Data Recovery." In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (**CCS '23**). Association for Computing Machinery, New York, NY, USA, 341–355. [**CCF-A**][**BIG4**]
