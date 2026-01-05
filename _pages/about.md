@@ -12,7 +12,7 @@ I am currently an Assistant Professor at the School of Computer Science and Tech
 
 My research interests span computer systems security and AI security. During my doctoral studies, I specialized in ransomware detection, with a particular focus on leveraging virtualization and trusted computing technologies to develop low-level, high-assurance defense systems that operate with enhanced security guarantees. Currently, my research extends to exploring security vulnerabilities within AI systems and harnessing AI techniques to address and optimize solutions for traditional system security challenges.
 
-I am always open to academic collaborations and discussions. Please feel free to reach out via email at [boyangma@email.sdu.edu.cn](mailto:boyangma@email.sdu.edu.cn) or [maboyang@hotmail.com](mailto:maboyang@hotmail.com) if you would like to connect or explore potential research opportunities together.
+I am always open to academic collaborations and discussions. Please feel free to reach out via email at [boyangma@email.sdu.edu.cn](mailto:boyangma@email.sdu.edu.cn) if you would like to connect or explore potential research opportunities together.
 
 
 ## 📝 Publications 
