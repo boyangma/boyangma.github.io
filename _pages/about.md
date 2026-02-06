@@ -17,13 +17,13 @@ I am always open to academic collaborations and discussions. Please feel free to
 
 ## 📝 Publications 
 
-- Zhihao Li, Kun Li, **Boyang Ma**, Minghui Xu, Yue Zhang and Xiuzhen Cheng. We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems. In Proceedings of the IEEE MASS Workshop on Data Security and LLM Safety in Smart Systems 2025 (DLS 2025), Chicago, USA, Oct. 2025.
+- Zhihao Li, Kun Li, **Boyang Ma**, Minghui Xu, Yue Zhang and Xiuzhen Cheng. We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems. In Proceedings of the IEEE MASS Workshop on Data Security and LLM Safety in Smart Systems 2025 (DLS 2025), Chicago, USA, Oct. 2025. [***Link***](https://ieeexplore.ieee.org/document/11206219)
 
-- Rui Jiao, Yue Zhang, Jinku Li, and **Boyang Ma**. SCCA: A Multi-Agent Code Security Analysis Framework for AI-Assisted Code Generation. In Proceedings of the IEEE MASS Workshop on Data Security and LLM Safety in Smart Systems 2025 (DLS 2025), Chicago, USA, Oct. 2025.
+- Rui Jiao, Yue Zhang, Jinku Li, and **Boyang Ma**. SCCA: A Multi-Agent Code Security Analysis Framework for AI-Assisted Code Generation. In Proceedings of the IEEE MASS Workshop on Data Security and LLM Safety in Smart Systems 2025 (DLS 2025), Chicago, USA, Oct. 2025. [***Link***](https://ieeexplore.ieee.org/document/11206165)
 
-- **Boyang Ma**, Linxuan Zhou, Chong Liao, Yajin Zhou, Jinku Li, and Jianfeng Ma. 2025. “RansomSentry: Runtime Detection of Android Ransomware With Compiler-Based Instrumentation.” IEEE Transactions on Dependable and Secure Computing (**TDSC**), January, 1–17. [**JCR-Q1**][**CCF-A**]
+- **Boyang Ma**, Linxuan Zhou, Chong Liao, Yajin Zhou, Jinku Li, and Jianfeng Ma. 2025. “RansomSentry: Runtime Detection of Android Ransomware With Compiler-Based Instrumentation.” IEEE Transactions on Dependable and Secure Computing (**TDSC**), January, 1–17. [**JCR-Q1**][**CCF-A**]. [***Link***](https://ieeexplore.ieee.org/document/10840300)
 
 - **Boyang Ma**, Yilin Yang, Jinku Li, Fengwei Zhang, Wenbo Shen, Yajin Zhou, and Jianfeng Ma. 2023. "Travelling the Hypervisor and SSD: A Tag-Based Approach Against Crypto Ransomware with Fine-Grained Data Recovery." In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (**CCS '23**). Association for Computing Machinery, New York, NY, USA, 341–355. [**CCF-A**][**BIG4**]. [***Link***](https://dl.acm.org/doi/10.1145/3576915.3616665)
 
-- Tang, Fei, **Boyang Ma**, Jinku Li, Fengwei Zhang, Jipeng Su, and Jianfeng Ma. "RansomSpector: An introspection-based approach to detect crypto ransomware." Computers & Security 97 (2020): 101997. [CCF-B]
+- Tang, Fei, **Boyang Ma**, Jinku Li, Fengwei Zhang, Jipeng Su, and Jianfeng Ma. "RansomSpector: An introspection-based approach to detect crypto ransomware." Computers & Security 97 (2020): 101997. [CCF-B]. [***Link***](https://www.sciencedirect.com/science/article/abs/pii/S0167404820302704)
 
