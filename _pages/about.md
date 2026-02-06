@@ -23,7 +23,7 @@ I am always open to academic collaborations and discussions. Please feel free to
 
 - **Boyang Ma**, Linxuan Zhou, Chong Liao, Yajin Zhou, Jinku Li, and Jianfeng Ma. 2025. “RansomSentry: Runtime Detection of Android Ransomware With Compiler-Based Instrumentation.” IEEE Transactions on Dependable and Secure Computing (**TDSC**), January, 1–17. [**JCR-Q1**][**CCF-A**]
 
-- **Boyang Ma**, Yilin Yang, Jinku Li, Fengwei Zhang, Wenbo Shen, Yajin Zhou, and Jianfeng Ma. 2023. "Travelling the Hypervisor and SSD: A Tag-Based Approach Against Crypto Ransomware with Fine-Grained Data Recovery." In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (**CCS '23**). Association for Computing Machinery, New York, NY, USA, 341–355. [**CCF-A**][**BIG4**]
+- **Boyang Ma**, Yilin Yang, Jinku Li, Fengwei Zhang, Wenbo Shen, Yajin Zhou, and Jianfeng Ma. 2023. "Travelling the Hypervisor and SSD: A Tag-Based Approach Against Crypto Ransomware with Fine-Grained Data Recovery." In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (**CCS '23**). Association for Computing Machinery, New York, NY, USA, 341–355. [**CCF-A**][**BIG4**]. [***Link***](https://dl.acm.org/doi/10.1145/3576915.3616665)
 
 - Tang, Fei, **Boyang Ma**, Jinku Li, Fengwei Zhang, Jipeng Su, and Jianfeng Ma. "RansomSpector: An introspection-based approach to detect crypto ransomware." Computers & Security 97 (2020): 101997. [CCF-B]
 
