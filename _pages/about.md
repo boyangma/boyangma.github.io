@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 👤 Bio
-I am currently an Assistant Professor at the School of Computer Science and Technology, [Shandong University](https://www.sdu.edu.cn), where I am a member of Professor [Yue Zhang](https://yue.zyueinfosec.com) ([张悦](https://yue.zyueinfosec.com/cn))'s research team. I received my Ph.D. degree in Cyberspace Security from [Xidian University](https://www.xidian.edu.cn), under the supervision of Professor [Jinku Li](https://faculty.xidian.edu.cn/LJK1/en/index.htm) ([李金库](https://faculty.xidian.edu.cn/Jinku/zh_CN/index.htm)).
+I am currently an Assistant Professor at the School of Computer Science and Technology, [Shandong University](https://www.sdu.edu.cn), where I am affiliated with the Institute of Intelligent Computing (IIC), led by Professor [Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ&hl=en) (成秀珍). I received my Ph.D. degree in Cyberspace Security from [Xidian University](https://www.xidian.edu.cn), under the supervision of Professor [Jinku Li](https://faculty.xidian.edu.cn/LJK1/en/index.htm) ([李金库](https://faculty.xidian.edu.cn/Jinku/zh_CN/index.htm)).
 
 My research interests span **computer systems security** and **AI security**. During my doctoral studies, I specialized in ransomware detection, with a particular focus on leveraging virtualization and trusted computing technologies to develop low-level, high-assurance defense systems that operate with enhanced security guarantees.
 
